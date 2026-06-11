@@ -17,7 +17,7 @@ coffe avan
 ```javascript
 const hannane = {
     role: "Front-End Developer",
-    code: ["HTML", "CSS"],
+    code: ["HTML", "CSS", "javascript"],
     focus: "Responsive & Modern UI",
     passion: "Clean Design + Smooth UX",
     currentlyLearning: "Advanced JavaScript",
@@ -71,7 +71,7 @@ Modern personal portfolio with animations and responsive design.
 - HTML
 - CSS
 
-🔗 Demo: `Coming Soon`
+🔗 Demo: `https://hannamousavi.github.io/coffe-web/`
 
 </td>
 
@@ -85,7 +85,7 @@ Modern online store landing page with interactive UI.
 - HTML
 - CSS
 
-🔗 Demo: `Coming Soon`
+🔗 Demo: `https://hannamousavi.github.io/coffe-web/`
 
 </td>
 </tr>
@@ -101,13 +101,13 @@ Reusable responsive UI components collection.
 - HTML
 - CSS
 
-🔗 Demo: `Coming Soon`
+🔗 Demo: `https://hannamousavi.github.io/coffe-web/`
 
 </td>
 
 <td width="50%">
 
-🔗 Demo: `Coming Soon`
+🔗 Demo: `https://hannamousavi.github.io/coffe-web/`
 
 </td>
 </tr>
